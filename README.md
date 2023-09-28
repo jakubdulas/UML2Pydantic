@@ -1,6 +1,6 @@
 # UML to Pydantic Converter
 
-This script is a Python utility that converts UML (Unified Modeling Language) class diagrams into Pydantic classes. It automates the process of generating Pydantic classes based on UML class definitions, including handling inheritance and composition relationships.
+This script is a Python utility that converts UML text notation in Plantuml into Pydantic classes. It automates the process of generating Pydantic classes based on UML class definitions, including handling inheritance and composition relationships.
 
 ## Table of Contents
 
